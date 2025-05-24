@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VSCode, PyCharm ve diğer IDE dosyaları
+.vscode/
+.idea/
+
+# Log ve geçici dosyalar
+*.log
+*.tmp
+
+# Model dosyaları (isteğe bağlı)
+*.pkl
+*.joblib
+
+# Sistem dosyaları
+Thumbs.db
